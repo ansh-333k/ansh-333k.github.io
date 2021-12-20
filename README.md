@@ -16,10 +16,10 @@
 ### Qwiklabs -> [ qwiklabs.com/public_profiles/ba4552da-f1c1-4b0e-a3c4-4b6dad17de68/ ]( https://www.qwiklabs.com/public_profiles/ba4552da-f1c1-4b0e-a3c4-4b6dad17de68/ )
 ---
 ## Educational Qualification
-#### Bachelor of Science ( BSc )
-##### Discipline 		 -> 	Programming & Data Science
-###### Institution 		 -> 	Indian Institute of Technology ( IIT ) Madras, Chennai
-Year 			 -> 	2021 - present
+### - Bachelor of Science ( BSc )
+| Discipline | -> | Programming & Data Science |
+| Institution | -> | Indian Institute of Technology ( IIT ) Madras, Chennai |
+| Year | -> | 2021 - present |
 Status / Achievement -> 	Completed Foundational Level with Certificate
 Result 		 -> 	8.9 CGPA ( upto Term - 2 )
 Volunteering 	 -> 	Group Leader of Gir House Group ID - 340
