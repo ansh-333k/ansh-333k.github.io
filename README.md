@@ -90,15 +90,15 @@
 ---
 - Foundational Level Certificate in Programming & Data Science by Centre for Continuing Education, Indian Institute of Technology ( IIT ) Madras
 
-  <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "300" width = "400" align = "center">
+  <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "600" width = "800" align = "middle">
   
 - Elite Certificate in Natural Language Processing by National Programme on Technology Enhanced Learning ( NPTEL ) Online Certification
 
-  <img src = "Certifications/Elite%20Certificate%20in%20Natural%20Language%20Processing.png" alt = "Elite Certificate in Natural Language Processing" height = "300" width = "400" align = "center">
+  <img src = "Certifications/Elite%20Certificate%20in%20Natural%20Language%20Processing.png" alt = "Elite Certificate in Natural Language Processing" height = "300" width = "400" align = "middle">
   
 - The Fundamentals of Digital Marketing by Google
 
-  <img src = "Certifications/The%20Fundamentals%20of%20Digital%20Marketing.png" alt = "The Fundamentals of Digital Marketing" height = "300" width = "400" align = "center">
+  <img src = "Certifications/The%20Fundamentals%20of%20Digital%20Marketing.png" alt = "The Fundamentals of Digital Marketing" height = "300" width = "400" align = "middle">
   
 - JavaScript Certificates by Grasshopper ( A Code with Google Program )
   aaaaa
