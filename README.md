@@ -16,7 +16,7 @@
 ### Qwiklabs -> [ qwiklabs.com/public_profiles/ba4552da-f1c1-4b0e-a3c4-4b6dad17de68/ ]( https://www.qwiklabs.com/public_profiles/ba4552da-f1c1-4b0e-a3c4-4b6dad17de68/ )
 ---
 ## Educational Qualification
-
+---
 - ### Bachelor of Science ( BSc )
 
 | **Discipline** | **->** | Programming & Data Science |
@@ -45,7 +45,7 @@
 
 | **Other Involvements** | **->** | Trainee at Platform Tech Solutions |
 
-#### [ &nbsp; &nbsp; &nbsp; &nbsp; ( platformtechs.in/ ) ]( https://www.platformtechs.in/ )
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ ( platformtechs.in/ ) ]( https://www.platformtechs.in/ )
 
 - ### Higher Secondary School ( 12th )
 
