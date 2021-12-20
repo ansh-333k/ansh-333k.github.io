@@ -30,36 +30,58 @@
 | **Result** | **->** | 8.9 CGPA ( upto Term - 2 ) |
 
 | **Volunteering** | **->** | Group Leader of Gir House Group ID - 340 |
-#### [ sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c ]( https://www.sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c )
 
-Bachelor of Engineering ( BE )
-Discipline 		-> 	Computer Science & Engineering ( CSE )
-Institution 		-> 	Panjab University ( PU ), Punjab
-Year 			-> 	2020 - 2024
-Result 		-> 	8.70 CGPA ( upto 2nd semester )
-Other Involvements 	-> 	Trainee at Platform Tech Solutions ( platformtechs.in )
-Higher Secondary School ( 12th )
-Board 		-> 	Central Board of Secondary Education ( CBSE )
-Institution 		-> 	Jawahar Navodaya Vidyalaya ( JNV ), Varanasi
-Year 			-> 	2019
-Subjects 		-> 	Computer Science ( Scored 98 out of 100 ), Mathematics, 						Physics, Chemistry, English
-Result 		-> 	83.6 %
-Secondary School ( 10th )
-Board 		-> 	Central Board of Secondary Education ( CBSE )
-Institution 		-> 	Jawahar Navodaya Vidyalaya ( JNV ), Varanasi
-Year 			-> 	2017
-Subjects 		-> 	Science, Mathematics, Social Science, English, Hindi
-Result 		-> 	9.4 CGPA
+#### [ ( sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c/ ) ]( https://www.sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c/ )
 
-Certifications
-The Fundamentals of Digital Marketing by Google
-JavaScript Certificates by Grasshopper ( A Code with Google Program )
-Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
+- ### Bachelor of Engineering ( BE )
+
+| **Discipline** | **->** | Computer Science & Engineering ( CSE ) |
+
+| **Institution** | **->** | Panjab University ( PU ), Punjab |
+
+| **Year** | **->** | 2020 - 2024 |
+
+| **Result** | **->** | 8.70 CGPA ( upto 2nd semester ) |
+
+| **Other Involvements** | **->** | Trainee at Platform Tech Solutions |
+
+#### [ ( platformtechs.in/ ) ]( https://www.platformtechs.in/ )
+
+- ### Higher Secondary School ( 12th )
+
+| **Board** | **->** | Central Board of Secondary Education ( CBSE ) |
+
+| **Institution** | **->** | Jawahar Navodaya Vidyalaya ( JNV ), Varanasi |
+
+| **Year** | **->** | 2019 |
+
+| **Subjects** | **->** | Computer Science ( _Scored 98 out of 100_ ), Mathematics, Physics, Chemistry, English |
+
+| **Result** | **->** | 83.6 % |
+
+- ### Secondary School ( 10th )
+
+| **Board** | **->** | Central Board of Secondary Education ( CBSE ) |
+
+| **Institution** | **->** | Jawahar Navodaya Vidyalaya ( JNV ), Varanasi |
+
+| **Year** | **->** | 2017 |
+
+| **Subjects** | **->** | Science, Mathematics, Social Science, English, Hindi |
+
+| **Result** | **->** | 9.4 CGPA |
+
+---
+## Certifications
+
+The Fundamentals of Digital Marketing by Google
+JavaScript Certificates by Grasshopper ( A Code with Google Program )
+Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
 
 Languages
-Hindi 	-> 	Native Proficiency
-English 	-> 	Limited Working Proficiency
-Oriya 	-> 	Elementary Proficiency
+Hindi 	-> 	Native Proficiency
+English 	-> 	Limited Working Proficiency
+Oriya 	-> 	Elementary Proficiency
 
 Technical Skills
 C						C++						Python
@@ -75,19 +97,19 @@ Hobbies
 Chess						Gaming					Kho Kho
 
 Achievements / Awards
-Google Cloud Computing Foundations Badges by Qwiklabs ( Google )
+Google Cloud Computing Foundations Badges by Qwiklabs ( Google )
 
 Academic Activities & Achievements
-Qualified for BTech CSE in Madan Mohan Malaviya University of Technology, Gorakhpur, 2020
-Qualified for BSc Computer Science in Banaras Hindu University, Varanasi, 2020
-Selected in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) for Class 6th students, 2012
+Qualified for BTech CSE in Madan Mohan Malaviya University of Technology, Gorakhpur, 2020
+Qualified for BSc Computer Science in Banaras Hindu University, Varanasi, 2020
+Selected in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) for Class 6th students, 2012
 
 Co-curricular Activities
-Participated twice in Science Exhibition ( 2017 & 2016 )
-Participated twice in National Science Congress ( 2018 & 2017 )
-Volunteered in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) as Technical Assistant, 2017
+Participated twice in Science Exhibition ( 2017 & 2016 )
+Participated twice in National Science Congress ( 2018 & 2017 )
+Volunteered in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) as Technical Assistant, 2017
 
 Extra Curricular Activities
-Knowledge of Making & Handling Telescope
-Technical Head of Event Organizing Committee during JNV academics
-Gaining information about latest technology
+Knowledge of Making & Handling Telescope
+Technical Head of Event Organizing Committee during JNV academics
+Gaining information about latest technology
