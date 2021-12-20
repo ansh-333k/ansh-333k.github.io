@@ -90,18 +90,42 @@
 ---
 - Foundational Level Certificate in Programming & Data Science by Centre for Continuing Education, Indian Institute of Technology ( IIT ) Madras
 
-  <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "300" width = "400" align = "middle">
+  <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "300" width = "400">
   
 - Elite Certificate in Natural Language Processing by National Programme on Technology Enhanced Learning ( NPTEL ) Online Certification
 
-  <img src = "Certifications/Elite%20Certificate%20in%20Natural%20Language%20Processing.png" alt = "Elite Certificate in Natural Language Processing" height = "300" width = "400" align = "middle">
+  <img src = "Certifications/Elite%20Certificate%20in%20Natural%20Language%20Processing.png" alt = "Elite Certificate in Natural Language Processing" height = "300" width = "400">
   
 - The Fundamentals of Digital Marketing by Google
 
-  <img src = "Certifications/The%20Fundamentals%20of%20Digital%20Marketing.png" alt = "The Fundamentals of Digital Marketing" height = "300" width = "400" align = "middle">
+  <img src = "Certifications/The%20Fundamentals%20of%20Digital%20Marketing.png" alt = "The Fundamentals of Digital Marketing" height = "300" width = "400">
   
 - JavaScript Certificates by Grasshopper ( A Code with Google Program )
-  aaaaa
+
+  1. Coding Fundamentals
+    
+    <img src = "Certifications/JavaScript%20Certificates/Coding%20Fundamentals.png" alt = "Coding Fundamentals" height = "600" width = "300">
+    
+  2. Coding Fundamentals II
+    
+    <img src = "Certifications/JavaScript%20Certificates/Coding%20Fundamentals%20II.png" alt = "Coding Fundamentals II" height = "600" width = "300">
+    
+  3. Intro to Interviewing
+    
+    <img src = "Certifications/JavaScript%20Certificates/Intro%20to%20Interviewing.png" alt = "Intro to Interviewing" height = "600" width = "300">
+    
+  4. Array Methods
+    
+    <img src = "Certifications/JavaScript%20Certificates/Array%20Methods.png" alt = "Array Methods" height = "600" width = "300">
+    
+  5. Animations
+    
+    <img src = "Certifications/JavaScript%20Certificates/Animations.png" alt = "Animations" height = "600" width = "300">
+    
+  6. Animations II
+    
+    <img src = "Certifications/JavaScript%20Certificates/Animations%20II.png" alt = "Animations II" height = "600" width = "300">
+  
 - Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
 
 Languages
