@@ -1,4 +1,4 @@
-<img src = "Pic.jpg" alt = "Profile Pic" height = "400" width = "350" align = "right">
+<img src = "Pic.jpg" alt = "Profile Pic" height = "350" width = "300" align = "right">
 
 # ANSH KUSHWAHA
 ___
