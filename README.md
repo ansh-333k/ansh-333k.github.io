@@ -72,8 +72,21 @@
 | **Result** | **->** | 9.4 CGPA |
 
 ---
-## Certifications
+## Projects
+---
+- ### Flash Card Web Application
 
+  - [ **Introduction Page** ]( https://ansh-333k.github.io/21f1006019-_MAD-I_-Final_Project/ )
+    #### [ ( ansh-333k.github.io/21f1006019-_MAD-I_-Final_Project/ ) ]( https://ansh-333k.github.io/21f1006019-_MAD-I_-Final_Project/ )
+  - [ **Web Application Site** ]( https://21f1006019-mad-i-finalproject.ansh-kushwaha.repl.co/ )
+    #### [ ( 21f1006019-mad-i-finalproject.ansh-kushwaha.repl.co/ ) ]( https://21f1006019-mad-i-finalproject.ansh-kushwaha.repl.co/ )
+  - [ **GitHub Repository** ]( https://github.com/ansh-333k/21f1006019-_MAD-I_-Final_Project/ )
+    #### [ ( github.com/ansh-333k/21f1006019-_MAD-I_-Final_Project/ ) ]( https://github.com/ansh-333k/21f1006019-_MAD-I_-Final_Project/ )
+  - [ **Replit Repl** ]( https://replit.com/@ANSH-KUSHWAHA/21f1006019-MAD-I-FinalProject?v=1/ )
+    #### [ ( replit.com/@ANSH-KUSHWAHA/21f1006019-MAD-I-FinalProject?v=1/ ) ]( https://replit.com/@ANSH-KUSHWAHA/21f1006019-MAD-I-FinalProject?v=1/ )
+---
+## Certifications
+---
 The Fundamentals of Digital Marketing by Google
 JavaScript Certificates by Grasshopper ( A Code with Google Program )
 Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
