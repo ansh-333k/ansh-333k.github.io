@@ -90,7 +90,7 @@
 ---
 - Foundational Level Certificate in Programming & Data Science by Centre for Continuing Education, Indian Institute of Technology ( IIT ) Madras
 
-  <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "600" width = "800" align = "middle">
+  <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "300" width = "400" align = "middle">
   
 - Elite Certificate in Natural Language Processing by National Programme on Technology Enhanced Learning ( NPTEL ) Online Certification
 
