@@ -1,2 +1,1 @@
-# ANSH KUSHWAHA
-### Hi there 👋
+
