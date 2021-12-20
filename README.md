@@ -19,9 +19,9 @@
 
 ### - Bachelor of Science ( BSc )
 
-| Discipline | -> | Programming & Data Science |
+| **Discipline** | **->** | Programming & Data Science |
 
-| Institution | -> | Indian Institute of Technology ( IIT ) Madras, Chennai |
+**| Institution | -> |** Indian Institute of Technology ( IIT ) Madras, Chennai |
 
 | Year | -> | 2021 - present |
 
