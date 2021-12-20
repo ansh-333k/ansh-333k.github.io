@@ -88,19 +88,19 @@
 ---
 ## Certifications
 ---
-- Foundational Level Certificate in Programming & Data Science by Centre for Continuing Education, Indian Institute of Technology ( IIT ) Madras
+- ### Foundational Level Certificate in Programming & Data Science by Centre for Continuing Education, Indian Institute of Technology ( IIT ) Madras
 
   <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "300" width = "400">
   
-- Elite Certificate in Natural Language Processing by National Programme on Technology Enhanced Learning ( NPTEL ) Online Certification
+- ### Elite Certificate in Natural Language Processing by National Programme on Technology Enhanced Learning ( NPTEL ) Online Certification
 
   <img src = "Certifications/Elite%20Certificate%20in%20Natural%20Language%20Processing.png" alt = "Elite Certificate in Natural Language Processing" height = "300" width = "400">
   
-- The Fundamentals of Digital Marketing by Google
+- ### The Fundamentals of Digital Marketing by Google
 
   <img src = "Certifications/The%20Fundamentals%20of%20Digital%20Marketing.png" alt = "The Fundamentals of Digital Marketing" height = "300" width = "400">
   
-- JavaScript Certificates by Grasshopper ( A Code with Google Program )
+- ### JavaScript Certificates by Grasshopper ( A Code with Google Program )
 
   1. Coding Fundamentals
     
@@ -126,12 +126,12 @@
     
     <img src = "Certifications/JavaScript%20Certificates/Animations%20II.png" alt = "Animations II" height = "300" width = "150">
   
-- Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
+- ### Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
 
 ---
 ## Achievements / Awards
 ---
-- Google Cloud Computing Foundations Badges by Qwiklabs ( Google )
+- ### Google Cloud Computing Foundations Badges by Qwiklabs ( Google )
   
   1. Cloud Computing Fundamentals
     
@@ -152,36 +152,60 @@
 ---
 ## Languages
 ---
-- Hindi | -> | Native Proficiency
-- English | -> | Limited Working Proficiency
-- Oriya | -> | Elementary Proficiency
+- **Hindi** | **->** | Native Proficiency
+- **English** | **->** | Limited Working Proficiency
+- **Oriya** | **->** | Elementary Proficiency
 
-Technical Skills
-C						C++						Python
-HTML						CSS						JavaScript
-OPNET Modeler				Microsoft Office				SQL
-Web Scrapping				Origin						Tableau
+---
+## Technical Skills
+---
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Microsoft Office
+- OPNET Modeler
+- Web Scrapping
+- Origin
+- Tableau
 
-Soft Skills
-Communication				Problem Solving				Leadership
-Event Planning				Event Management				Team Work
+---
+## Soft Skills
+---
+- Communication
+- Problem Solving
+- Leadership
+- Event Planning
+- Event Management
+- Team Work
 
-Hobbies
-Chess						Gaming					Kho Kho
+---
+## Hobbies
+---
+- Chess
+- Gaming
+- Kho Kho
 
+---
+## Academic Activities & Achievements
+---
+- Qualified for BTech CSE in Madan Mohan Malaviya University of Technology, Gorakhpur, 2020
+- Qualified for BSc Computer Science in Banaras Hindu University, Varanasi, 2020
+- Selected in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) for Class 6th students, 2012
 
+---
+## Co-curricular Activities
+---
+- Participated twice in National Science Congress ( 2018 & 2017 )
+- Participated twice in Science Exhibition ( 2017 & 2016 )
+- Volunteered in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) as Technical Assistant, 2017
 
-Academic Activities & Achievements
-Qualified for BTech CSE in Madan Mohan Malaviya University of Technology, Gorakhpur, 2020
-Qualified for BSc Computer Science in Banaras Hindu University, Varanasi, 2020
-Selected in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) for Class 6th students, 2012
-
-Co-curricular Activities
-Participated twice in Science Exhibition ( 2017 & 2016 )
-Participated twice in National Science Congress ( 2018 & 2017 )
-Volunteered in Jawahar Navodaya Vidyalaya Selection Test ( JNVST ) as Technical Assistant, 2017
-
-Extra Curricular Activities
-Knowledge of Making & Handling Telescope
-Technical Head of Event Organizing Committee during JNV academics
-Gaining information about latest technology
+---
+## Extra Curricular Activities
+---
+- Knowledge of Making & Handling Telescope
+- Technical Head of Event Organizing Committee during JNV academics
+- Gaining information about latest technology
