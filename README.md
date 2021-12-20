@@ -108,30 +108,53 @@
     
   2. Coding Fundamentals II
     
-    <img src = "Certifications/JavaScript%20Certificates/Coding%20Fundamentals%20II.png" alt = "Coding Fundamentals II" height = "600" width = "300">
+    <img src = "Certifications/JavaScript%20Certificates/Coding%20Fundamentals%20II.png" alt = "Coding Fundamentals II" height = "300" width = "150">
     
   3. Intro to Interviewing
     
-    <img src = "Certifications/JavaScript%20Certificates/Intro%20to%20Interviewing.png" alt = "Intro to Interviewing" height = "600" width = "300">
+    <img src = "Certifications/JavaScript%20Certificates/Intro%20to%20Interviewing.png" alt = "Intro to Interviewing" height = "300" width = "150">
     
   4. Array Methods
     
-    <img src = "Certifications/JavaScript%20Certificates/Array%20Methods.png" alt = "Array Methods" height = "600" width = "300">
+    <img src = "Certifications/JavaScript%20Certificates/Array%20Methods.png" alt = "Array Methods" height = "300" width = "150">
     
   5. Animations
     
-    <img src = "Certifications/JavaScript%20Certificates/Animations.png" alt = "Animations" height = "600" width = "300">
+    <img src = "Certifications/JavaScript%20Certificates/Animations.png" alt = "Animations" height = "300" width = "150">
     
   6. Animations II
     
-    <img src = "Certifications/JavaScript%20Certificates/Animations%20II.png" alt = "Animations II" height = "600" width = "300">
+    <img src = "Certifications/JavaScript%20Certificates/Animations%20II.png" alt = "Animations II" height = "300" width = "150">
   
 - Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
 
-Languages
-Hindi 	-> 	Native Proficiency
-English 	-> 	Limited Working Proficiency
-Oriya 	-> 	Elementary Proficiency
+---
+## Achievements / Awards
+---
+- Google Cloud Computing Foundations Badges by Qwiklabs ( Google )
+  
+  1. Cloud Computing Fundamentals
+    
+    <img src = "Achievements%20%26%20Awards/Google%20Cloud%20Computing%20Foundations%20Badges/Cloud%20Computing%20Fundamentals.png" alt = "Cloud Computing Fundamentals" height = "150" width = "150">
+    
+  2. Infrastructure in Google Cloud
+    
+    <img src = "Achievements%20%26%20Awards/Google%20Cloud%20Computing%20Foundations%20Badges/Infrastructure%20in%20Google%20Cloud.png" alt = "Infrastructure in Google Cloud" height = "150" width = "150">
+    
+  3. Networking and Security in Google Cloud
+    
+    <img src = "Achievements%20%26%20Awards/Google%20Cloud%20Computing%20Foundations%20Badges/Networking%20and%20Security%20in%20Google%20Cloud.png" alt = "Networking and Security in Google Cloud" height = "150" width = "150">
+    
+  4. Data, ML, and AI in Google Cloud
+    
+    <img src = "Achievements%20%26%20Awards/Google%20Cloud%20Computing%20Foundations%20Badges/Data%2C%20ML%2C%20and%20AI%20in%20Google%20Cloud.png" alt = "Data, ML, and AI in Google Cloud" height = "150" width = "150">
+
+---
+## Languages
+---
+- Hindi | -> | Native Proficiency
+- English | -> | Limited Working Proficiency
+- Oriya | -> | Elementary Proficiency
 
 Technical Skills
 C						C++						Python
@@ -146,8 +169,7 @@ Event Planning				Event Management				Team Work
 Hobbies
 Chess						Gaming					Kho Kho
 
-Achievements / Awards
-Google Cloud Computing Foundations Badges by Qwiklabs ( Google )
+
 
 Academic Activities & Achievements
 Qualified for BTech CSE in Madan Mohan Malaviya University of Technology, Gorakhpur, 2020
