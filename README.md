@@ -19,11 +19,9 @@
 
 ### - Bachelor of Science ( BSc )
 
-| **Discipline** | **->** | Programming & Data Science |
-
-**| Institution | -> |** Indian Institute of Technology ( IIT ) Madras, Chennai |
-
-| Year | -> | 2021 - present |
+- | **Discipline** | **->** | Programming & Data Science |
+- | **Institution** | **->** | Indian Institute of Technology ( IIT ) Madras, Chennai |
+| **Year** | **->** | 2021 - present |
 
 Status / Achievement -> 	Completed Foundational Level with Certificate
 Result 		 -> 	8.9 CGPA ( upto Term - 2 )
