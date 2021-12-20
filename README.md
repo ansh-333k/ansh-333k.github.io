@@ -1,4 +1,4 @@
-! [ Profile Pic ]( Pic.jpg " Profile Pic " )
+![ Profile Pic ]( Pic.jpg " Profile Pic " )
 
 ---
 # ANSH KUSHWAHA
