@@ -17,16 +17,21 @@
 ---
 ## Educational Qualification
 
-### - Bachelor of Science ( BSc )
+- ### Bachelor of Science ( BSc )
 
-- | **Discipline** | **->** | Programming & Data Science |
-- | **Institution** | **->** | Indian Institute of Technology ( IIT ) Madras, Chennai |
+| **Discipline** | **->** | Programming & Data Science |
+
+| **Institution** | **->** | Indian Institute of Technology ( IIT ) Madras, Chennai |
+
 | **Year** | **->** | 2021 - present |
 
-Status / Achievement -> 	Completed Foundational Level with Certificate
-Result 		 -> 	8.9 CGPA ( upto Term - 2 )
-Volunteering 	 -> 	Group Leader of Gir House Group ID - 340
-( sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c )
+| **Achievement** | **->** |	Completed Foundational Level with Certificate |
+
+| **Result** | **->** | 8.9 CGPA ( upto Term - 2 ) |
+
+| **Volunteering** | **->** | Group Leader of Gir House Group ID - 340 |
+#### [ sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c ]( https://www.sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c )
+
 Bachelor of Engineering ( BE )
 Discipline 		-> 	Computer Science & Engineering ( CSE )
 Institution 		-> 	Panjab University ( PU ), Punjab
