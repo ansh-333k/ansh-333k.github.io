@@ -1,4 +1,4 @@
-<img src = "Pic.jpg" alt = "Profile Pic" height = "350" width = "300" align = "right">
+<img src = "Profile%20Pic.jpg" alt = "Profile Pic" height = "350" width = "300" align = "right">
 
 ---
 # ANSH KUSHWAHA
@@ -84,12 +84,19 @@
     #### [ ( github.com/ansh-333k/21f1006019-_MAD-I_-Final_Project/ ) ]( https://github.com/ansh-333k/21f1006019-_MAD-I_-Final_Project/ )
   - [ **Replit Repl** ]( https://replit.com/@ANSH-KUSHWAHA/21f1006019-MAD-I-FinalProject?v=1/ )
     #### [ ( replit.com/@ANSH-KUSHWAHA/21f1006019-MAD-I-FinalProject?v=1/ ) ]( https://replit.com/@ANSH-KUSHWAHA/21f1006019-MAD-I-FinalProject?v=1/ )
+
 ---
 ## Certifications
 ---
-The Fundamentals of Digital Marketing by Google
-JavaScript Certificates by Grasshopper ( A Code with Google Program )
-Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
+- Foundational Level Certificate in Programming & Data Science by Centre for Continuing Education, Indian Institute of Technology ( IIT ) Madras
+  <img src = "Certifications/Foundational%20Level%20Certificate%20in%20Programming%20%26%20Data%20Science.png" alt = "Foundational Level Certificate in Programming & Data Science" height = "300" width = "400" align = "center">
+- Elite Certificate in Natural Language Processing by National Programme on Technology Enhanced Learning ( NPTEL ) Online Certification
+  <img src = "Certifications/Elite%20Certificate%20in%20Natural%20Language%20Processing.png" alt = "Elite Certificate in Natural Language Processing" height = "300" width = "400" align = "center">
+- The Fundamentals of Digital Marketing by Google
+  <img src = "Certifications/The%20Fundamentals%20of%20Digital%20Marketing.png" alt = "The Fundamentals of Digital Marketing" height = "300" width = "400" align = "right">
+- JavaScript Certificates by Grasshopper ( A Code with Google Program )
+  aaaaa
+- Astronomical Telescope Making Workshop - Participation Certificate by Vigyan Prasar, Department of Science and Technology, Government of India
 
 Languages
 Hindi 	-> 	Native Proficiency
