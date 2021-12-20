@@ -57,7 +57,7 @@
 
 **Subjects** | **->** | Computer Science ( _Scored 98 out of 100_ ), Mathematics, Physics, Chemistry, English
 
-**Result** | **->** | 83.6 % |
+**Result** | **->** | 83.6 %
 
 - ### Secondary School ( 10th )
 
