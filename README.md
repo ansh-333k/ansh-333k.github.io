@@ -104,7 +104,7 @@
 
   1. Coding Fundamentals
     
-    <img src = "Certifications/JavaScript%20Certificates/Coding%20Fundamentals.png" alt = "Coding Fundamentals" height = "600" width = "300">
+    <img src = "Certifications/JavaScript%20Certificates/Coding%20Fundamentals.png" alt = "Coding Fundamentals" height = "300" width = "150">
     
   2. Coding Fundamentals II
     
