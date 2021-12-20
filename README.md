@@ -1,4 +1,4 @@
-<img src = "Pic.jpg" alt = "Profile Pic" height = "350" width = "300" align = "right">
+! [ Profile Pic ]( Pic.jpg " Profile Pic " )
 
 ---
 # ANSH KUSHWAHA
@@ -29,9 +29,9 @@
 
 | **Result** | **->** | 8.9 CGPA ( upto Term - 2 ) |
 
-| **Volunteering** | **->** | Group Leader of Gir House Group ID - 340 |
+| **Volunteering** | **->** | Group Leader of Gir House Group ID - 340
 
-#### [ ( sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c/ ) ]( https://www.sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c/ )
+#### [ ( sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c/ ) ]( https://www.sites.google.com/student.onlinedegree.iitm.ac.in/gir-house/contact-us#h.wmxc97lg615c/ ) |
 
 - ### Bachelor of Engineering ( BE )
 
