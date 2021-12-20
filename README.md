@@ -1,6 +1,8 @@
 <img src = "AK PIC.jpg" alt = "Profile Pic" height = "300" width = "250" align = "right">
 
 # ANSH KUSHWAHA
-> ### Student
+___
+___
+> ## Student
 
-### Varanasi, Uttar Pradesh, India
+## Varanasi, Uttar Pradesh, India
